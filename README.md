@@ -1,2 +1,2 @@
 # Calculator---App
-This is my First basic Calculator project
+This is my First basic Calculator Project.
